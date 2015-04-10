@@ -1,0 +1,2 @@
+Python script is a modified version of https://github.com/etonkin/neurosky-telnet/blob/master/pytel.py 
+Arduino sketch is a modified version of https://github.com/elliott1796/NeuroSky/blob/master/Arduino/arduino.ino
